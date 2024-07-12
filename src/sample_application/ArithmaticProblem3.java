@@ -4,6 +4,8 @@ public class ArithmaticProblem3 {
 
 	public static void main(String[] args) {
 		
+		// 변수를 정의하고 값을 할당하는 코드.
+		
 		int celsius = 30; // 섭씨 30도.
 		int farenheit = (celsius * 9 / 5) + 32; // 화씨, ( 섭씨 * 9 / 5) + 32
 		
